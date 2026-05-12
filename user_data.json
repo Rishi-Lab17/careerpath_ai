@@ -1,0 +1,48 @@
+{
+  "RISHI_9876587885": {
+    "current_role": "DevOps Engineer",
+    "target_role": "Senior DevOps Engineer",
+    "years_exp": 2,
+    "skills": [
+      {
+        "name": "PYTHON",
+        "level": 5
+      },
+      {
+        "name": "communication",
+        "level": 5
+      }
+    ],
+    "preferred_location": "Bangalore",
+    "learning_hours": 5,
+    "completed_criteria": [],
+    "completed_tasks": [],
+    "chat_history": [],
+    "daily_streak": 1
+  },
+  "RISHI_8123647470": {
+    "current_role": "Data Analyst",
+    "target_role": "Data Scientist",
+    "years_exp": 2,
+    "skills": [
+      {
+        "name": "PYTHON",
+        "level": 7
+      },
+      {
+        "name": "SQL",
+        "level": 3
+      },
+      {
+        "name": "COMMUNICATION",
+        "level": 7
+      }
+    ],
+    "preferred_location": "Bangalore",
+    "learning_hours": 3,
+    "completed_criteria": [],
+    "completed_tasks": [],
+    "chat_history": [],
+    "daily_streak": 1
+  }
+}
